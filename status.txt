@@ -16,7 +16,7 @@
 ;
 120218:NOTCP
 ;
-msg0=Welcome to ALLNET China.
+msg0=Welcome to ALLNET China, a non-profit organization focus on flight simulation.
 ;
 url0=
 ;
