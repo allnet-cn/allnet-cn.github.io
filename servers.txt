@@ -22,5 +22,6 @@ Chinaflier:fly.chinaflier.com:China:1:
 FSA:fly.fsa.aero:FSA:China:1:
 FSXCN:fly.fsxcn.com.cn:FSXCN:China:1:
 SinoFSX:fly.sinofsx.com:SINOFSX:China:1:
+LocalTest:127.0.0.1:LocalTest:China:1:
 ;
 ;   END
